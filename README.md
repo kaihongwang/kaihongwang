@@ -2,7 +2,7 @@
 - 🍀 I’m interested in using Python to solve sustainable questions.
 - 📚 I’m currently learning how to manage big data with Python.
 - 🔗 I’m looking to collaborate on big data analysis with sustainability or environmental issues.
-- 🪜 I'm a beginner and new here.22
+- 🪜 I'm a beginner and new here.
 
 <!---
 kaihongwang/kaihongwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
